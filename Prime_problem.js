@@ -12,4 +12,5 @@ function Check_prime(n) {
         return false;
     }
 }
-console.log(Check_prime(13))
+let result=Check_prime(13);
+console.log(result)
